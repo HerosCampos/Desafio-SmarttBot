@@ -18,13 +18,14 @@ Procurei anotar e deixar registrado os principais pontos no Jupyter Notebook ent
 ---
 
 No gif a seguir mostro o que considero ser o maior ponto fraco do projeto, consegui criar um gráfico interativo de candles mas não consegui adicionar as Médias Móveis Exponenciais e nem as Bandas de Bollinger. Tive que gerar os gráficos das MME e da BB com gráfico de linhas, ficou legal mas não tão legal :/
+
 PS: Pode juntar este gráfico com o IFR pois o gráfico de Índice de Força Relativa é visualizado de forma 'separada', como no exemplo que mostro no Jupyter Notebook.
 ![candles](https://user-images.githubusercontent.com/73557900/101296863-9540ab00-3804-11eb-9b90-0db682142cda.gif)
 
 ---
-* Também é possível configurar as Médias Móveis Exponenciais, você escolhe os períodos desejados e elas são atualizadas (inclusive na legenda) no gráfico. 
+* Também é possível configurar as Médias Móveis Exponenciais, você escolhe os períodos desejados e elas serão atualizadas (inclusive na legenda) no gráfico. 
 * Para esta estratégia eu utilizei um sistema simples de cruzamento de MME, mas, caso essa não seja uma estratégia de preferência do usuário ele pode optar por não gerar os demais comandos, ficando apenas com as MME.
-* Caso o usuário opte por utilizar o sistema de cruzamento de Médias Móveis Exponenciais ele receberar algumas 'dicas' de compra ou venda assim que as médias se cruzarem.
+* Caso o usuário opte por utilizar o sistema de cruzamento de Médias Móveis Exponenciais ele receberá algumas 'dicas' de compra ou venda assim que as médias se cruzarem.
 
 ![MME](https://user-images.githubusercontent.com/73557900/101296933-0e400280-3805-11eb-993c-71a4bb8662e3.PNG)
 
