@@ -48,11 +48,6 @@ PS: Pode juntar este gráfico com o IFR pois o gráfico de Índice de Força Rel
 
 ---
 
-Tirei a sexta-feira para organizar o projeto, fazer as pesquisas de cunho técnico (Análise Técnica) e iniciei um esboço do que seria a estrutura do código.
-
-No sábado eu fiquei cerca de 12 horas envolvido com o desenvolvimento e me diverti bastante.
-
-No domingo eu terminei alguns detalhes que ficaram faltando,  preparei a documentação e orientações, espero que gostem.
 
 **Muito obrigado ;)**
 
