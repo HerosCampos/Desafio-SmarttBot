@@ -7,7 +7,9 @@ O arquivo se chama:
 https://www.kaggle.com/mczielinski/bitcoin-historical-data/data#coinbaseUSD_1-min_data_2014-12-01_to_2019-01-09.csv)
 
 Para organizar as etapas eu coloquei os meus objetivos em um quadro, utilizei o excelente livro chamado Manual de Análise Técnica do autor Marcos Abe para fazer algumas pesquisas e recorri diversas vezes ao Google.
+
 A organização das ideias ficou assim:
+
 ![20201205_121434](https://user-images.githubusercontent.com/73557900/101296192-d6cf5700-3800-11eb-9c27-7d835a964342.jpg)
 
 Procurei anotar e deixar registrado os principais pontos no Jupyter Notebook então irei utilizar este Read Me para complementar o que considero importante.
@@ -46,6 +48,12 @@ PS: Pode juntar este gráfico com o IFR pois o gráfico de Índice de Força Rel
 
 ---
 
-Muito obrigado ;)
+Tirei a sexta-feira para organizar o projeto, fazer as pesquisas de cunho técnico (Análise Técnica) e iniciei um esboço do que seria a estrutura do código.
+
+No sábado eu fiquei cerca de 12 horas envolvido com o desenvolvimento e me diverti bastante.
+
+No domingo eu terminei alguns detalhes que ficaram faltando,  preparei a documentação e orientações, espero que gostem.
+
+**Muito obrigado ;)**
 
 ![129050381_3470516109733082_64953203074297752_n](https://user-images.githubusercontent.com/73557900/101297361-5d873280-3807-11eb-955f-2ecbae1ecef8.jpg)
