@@ -36,7 +36,7 @@ PS: Pode juntar este gráfico com o IFR pois o gráfico de Índice de Força Rel
 2. A tabela simplificada, apenas com o timestamp e os indicadores (como foi solicitado no pdf).
 
 ---
-Me diverti muito realizando este desafio, caso seja necessário eu posso trocar o DataSet e atualizar o código, posso criar o programa no VS Code...
-Muito obrigado
+
+Muito obrigado ;)
 
 ![129050381_3470516109733082_64953203074297752_n](https://user-images.githubusercontent.com/73557900/101297361-5d873280-3807-11eb-955f-2ecbae1ecef8.jpg)
