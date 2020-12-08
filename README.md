@@ -33,14 +33,16 @@ PS: Pode juntar este gráfico com o IFR pois o gráfico de Índice de Força Rel
 
 É possível salvar o CSV de duas formas:
 1. A tabela completa, inclusive com os valores de Fechamento dos preços.
+
 ![completo](https://user-images.githubusercontent.com/73557900/101553534-948a4f00-3993-11eb-8123-0f36fd5ebcfe.PNG)
 
 
 2. A tabela simplificada, apenas com o timestamp e os indicadores (como foi solicitado no pdf).
+
 ![sem_fechamento](https://user-images.githubusercontent.com/73557900/101553558-a10ea780-3993-11eb-972c-390031fd4d65.PNG)
 
 
-**PS:** É possível salvar com a data ou sem a data, as instruções estão contidas no Jupyter Notebook
+**PS:** É possível salvar com a data ou sem a data, as instruções estão contidas no Jupyter Notebook.
 
 ---
 
